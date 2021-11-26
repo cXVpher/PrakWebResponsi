@@ -1,0 +1,113 @@
+.nav-link {
+    background-color: #acacac;
+    padding: 10px;
+    font-size: 12px;
+    border: none;
+}
+
+.collapse{
+    margin-top: -10px;
+}
+.nav-blue {
+    background-color: #050049;
+    padding: 10px;
+    font-size: 12px;
+    border: none;
+}
+
+.dropbtn {
+    background-color: #acacac;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 12px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropbtn:hover {
+    background-color: #050049;
+    color: #fff;
+}
+
+
+.logout {
+    background-color: #acacac;
+    padding: 10px;
+    font-size: 12px;
+    border: none;
+}
+
+.bg-blue {background-color: #050049}
+
+nav.topnav {
+    text-align: center;
+    font-size:40px;
+    margin-bottom:-20px;
+    padding: 20px;
+}
+
+p.judul{
+    font-weight: bold;
+}
+
+div.footer {
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 9px;
+    padding-bottom: 1px;
+}
+
+div.container h1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 110px;
+    padding-bottom: 10px;
+}
+
+div.nama h1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 215px;
+    color: #050049;
+}
+
+div.body h1 {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
